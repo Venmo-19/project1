@@ -1,2 +1,3 @@
 # This is a file with $name of all customers
 # This is a list of premium of customers
+# read $name
