@@ -2,6 +2,7 @@
 
 #run this script on only redhat/centOs platforms
 #Running this script  will record names of group members and their git usernames for easy identification
+#Author: Queku Bonti
 
 echo "welcome to class 30 group 19"
 echo "please enter your name"
