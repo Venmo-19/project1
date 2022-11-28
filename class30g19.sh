@@ -35,6 +35,4 @@ echo "Git Username: $username" >> /home/$USER/class30g19/class30g19.doc
 
 echo "You are all set $name, now check your user home dir"
 echo "locate the file class30g19.doc inside your class30g19 dir and push to  class30-dev19 /project1 git hub repository"
-
-
-
+echo " Thanks be to God"
