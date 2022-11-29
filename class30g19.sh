@@ -42,3 +42,5 @@ echo " Welcome on board Engineers"
 =======
 echo " Thanks be to God"
 >>>>>>> cb3100e01ac1122e8dd74d2474efc6c143ab060c
+
+echo "Great mind"
