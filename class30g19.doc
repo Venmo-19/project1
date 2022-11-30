@@ -10,9 +10,13 @@ Prince is excelling. Check it out.
 =======
 NAME: Catherine
 Git Username: engrcatherine
->>>>>>> ba41035 (task completed)
 =========
 NAME: lola
 Git Username: lolanovia
 we are getting there.
+<<<<<<< HEAD
 >>>>>>> 5100ac40877d5ac806d9b3e190ddcb4f209c53e5
+=======
+we are waiting on you leonel
+you did it, you are now a millionaire
+>>>>>>> c3e086806fe98009c5dc6b6a3d37c74399bd0f2c
